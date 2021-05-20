@@ -1,3 +1,3 @@
 Function breakOut(array, changeValue, stopValue){
-  array.forEach()
+  array.forEach(element => { changeValue})
 }
